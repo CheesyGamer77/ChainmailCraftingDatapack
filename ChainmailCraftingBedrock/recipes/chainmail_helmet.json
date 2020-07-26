@@ -4,7 +4,7 @@
         "description": {
             "identifier": "minecraft:chainmail_helmet",
         },
-        "tags": ["crafting_table"]
+        "tags": ["crafting_table"],
         "pattern": [
             "xxx",
             "x x"
