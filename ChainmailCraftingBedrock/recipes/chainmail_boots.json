@@ -4,7 +4,7 @@
         "description": {
             "identifier": "minecraft:chainmail_boots",
         },
-        "tags": ["crafting_table"]
+        "tags": ["crafting_table"],
         "pattern": [
             "x x",
             "x x"
