@@ -4,7 +4,7 @@
         "description": {
             "identifier": "minecraft:chainmail_chestplate",
         },
-        "tags": ["crafting_table"]
+        "tags": ["crafting_table"],
         "pattern": [
             "x x",
             "xxx",
