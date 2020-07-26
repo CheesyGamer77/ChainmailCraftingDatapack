@@ -1,0 +1,22 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Chainmail Crafting",
+        "description": "Adds chainmail armor crafting recipes!",
+        "uuid": "52fc1f80-cf96-11ea-87d0-0242ac130003",
+        "version": [1, 0, 0],
+        "min_engine_version" [1, 13, 0]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "af1afc14-cf96-11ea-87d0-0242ac130003",
+            "version": [1, 0, 0]
+        }
+    ],
+    "metadata": {
+        "authors": ["CheesyGamer77"],
+        "license": "None",
+        "url": "https://github.com/CheesyGamer77/ChainmailCraftingPacks"
+    }
+}
